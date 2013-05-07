@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="con" path="com.sap.ide.ui5.libsclasspathcontainer/SAPUI5 Core Libraries"/>
+	<classpathentry kind="con" path="com.sap.ide.ui5.libsclasspathcontainer/SAPUI5 Server Side Libraries"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
